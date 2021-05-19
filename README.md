@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psmathur&hide=css,scss,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2" />
 </a>
 <a href="https://github.com/psmathur/psmathur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=psmathur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues,contribs" alt="Pankaj Mathur's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=psmathur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues,contribs&include_all_commits=true" alt="Pankaj Mathur's GitHub Stats" />
 </a>
 
 
